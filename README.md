@@ -9,4 +9,4 @@ Este proyecto lo hice todo yo solo :(
 
 Durante el desarrollo de este proyecto aprendí mas o menos como funcionan las lambdas, que pueden ser herramnientas muy utiles para diferentes casos, 
 también aprendí como se estructura un codigo funcional, y sobre todo lo mas importante para mi fue ampliar mi visión con todo lo que se puede hacer programando. <3
-"# proyectoFInal_PROGRA-2025" 
+
